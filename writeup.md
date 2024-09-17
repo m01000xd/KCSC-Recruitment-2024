@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6fdc2a5d-cc51-4a79-a95a-0fa56daa6ef2)### Elif
+### Elif
 ```python3
 flag = input('Enter your flag: ')
 if len(flag) != 49:
@@ -1237,6 +1237,7 @@ for key in sorted(flag.keys()):
     s += chr(flag[key])
 print(s)
 ```
+
 **Flag:KCSC{nhin em anh boi roi anh thua roi tim em lam loi anh chua tung dam noi anh yeu mot ai the nay!!}**
 
 
